@@ -1,6 +1,6 @@
 🎓 UChicago B.S. in Computational & Applied Mathematics, 2020
 
-💼📊 Currently dev @ Walleye Analytics , previously research @ AQR Portfolio Solutions. *Only personal projects here.*
+💼📊 Prev dev @ Walleye Analytics , research @ AQR Portfolio Solutions. *Only personal projects here.*
 
 💡 I like thinking about efficiency in code and new technologies in finance & time series applications
 
