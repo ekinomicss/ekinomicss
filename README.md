@@ -2,8 +2,4 @@
 
 💼📊 Previously dev @ Walleye Analytics , research @ AQR Portfolio Solutions. *Only personal projects here.*
 
-💡 I like thinking about efficiency in code and new technologies in finance & time series applications
-
-🛠️ Skills: Python, SQL, Groovy, Java, React, Git, Airflow, AWS Lambda, EC2, Docker, CI/CD, Bloomberg, Linux shell 
-
-🐍️ Python: pandas, polars, flask, sci-kit learn, statsmodels, plotly, pytest, pytorch, multiprocessing, OOP, PyQt, OpenAI API
+🛠️ Technologies: Expert level Python, SQL, Linux shell and Git. Groovy, Java, React and HTML/CSS. Skilled in CI/CD. Experience with Airflow, AWS Lambda, EC2, Docker, Deephaven Data Labs, Bloomberg.
