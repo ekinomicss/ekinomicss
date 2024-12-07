@@ -4,5 +4,5 @@
 
 🛠️ Technologies: Expert level Python, SQL, Linux shell and Git. Groovy, JavaScript, Java, React, TypeScript and HTML/CSS. Skilled in CI/CD. Experience with Airflow, AWS Lambda, EC2, Docker, PyTorch, DDL, KDB+, Bloomberg. OpenAI/Anthrophic/Mistral APIs. 
 
-📚 Currently interested in: Mech interp + AI control.
+📚 Currently interested in: mech interp + AI control.
 
